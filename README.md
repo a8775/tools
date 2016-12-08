@@ -1,4 +1,8 @@
 
+- https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons
+- https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
+- https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2
+
 
 # tools
 ## vscode
