@@ -1,4 +1,4 @@
-
+ https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf-
 - https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-edge
 - https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer
 - https://marketplace.visualstudio.com/items?itemName=chimon2000.polymer-snippets
@@ -17,6 +17,7 @@
 - https://marketplace.visualstudio.com/items?itemName=ms-vscode.wordcount
 - https://marketplace.visualstudio.com/items?itemName=chrmarti.regex
 
+- https://marketplace.visualstudio.com/items?itemName=LawrenceGrant.cql
 check:
 - https://marketplace.visualstudio.com/items?itemName=seanmcbreen.Spell
 - https://marketplace.visualstudio.com/items?itemName=minhthai.vscode-todo-parser
