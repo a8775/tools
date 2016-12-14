@@ -1,4 +1,10 @@
- https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf-
+# tools:
+- code: http://code.visualstudio.com/docs/?dv=win&build=insiders
+- nodejs: https://nodejs.org/en/
+
+# code extenstions:
+ 
+- https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf-
 - https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-edge
 - https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer
 - https://marketplace.visualstudio.com/items?itemName=chimon2000.polymer-snippets
