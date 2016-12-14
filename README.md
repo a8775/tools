@@ -1,8 +1,10 @@
+
 # tools:
 - code: http://code.visualstudio.com/docs/?dv=win&build=insiders
 - nodejs: https://nodejs.org/en/
 - cassandra: https://academy.datastax.com/planet-cassandra/cassandra
 - DevCenter: https://academy.datastax.com/downloads
+- SVN: https://tortoisesvn.net/
 
 # code extenstions:
  
