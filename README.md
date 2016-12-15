@@ -1,3 +1,9 @@
+# git
+
+`git config user.name a8775`
+`git config user.email user@users.noreplay.github.com`
+
+
 
 # tools:
 - code: http://code.visualstudio.com/docs/?dv=win&build=insiders
