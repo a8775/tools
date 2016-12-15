@@ -1,7 +1,9 @@
 # git
+- https://git-for-windows.github.io/
 
-`git config user.name a8775`
-`git config user.email user@users.noreplay.github.com`
+  `git config user.name a8775`
+
+  `git config user.email user@users.noreplay.github.com`
 
 
 
